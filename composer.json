@@ -1,0 +1,20 @@
+{
+    "name": "mitisk/yii2-phone-input",
+    "description": "Поле для ввода телефона в формах",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mitisk\\Yii2PhoneInput\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mitisk"
+        }
+    ],
+	"require": {
+        "php": ">=7.4"
+    },
+    "minimum-stability": "stable"
+}
