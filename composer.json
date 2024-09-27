@@ -10,7 +10,9 @@
     },
     "authors": [
         {
-            "name": "Mitisk"
+            "name": "Mitisk",
+            "email": "masterhof@mail.ru",
+            "homepage": "https://keypage.ru/"
         }
     ],
 	"require": {
